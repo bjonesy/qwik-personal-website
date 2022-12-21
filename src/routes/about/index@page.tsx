@@ -128,7 +128,7 @@ export default component$(() => {
             </ul>
           </div>
         </div>
-        <div class="pt-6 border-t border-gray-200">
+        <div class="pt-6 pb-8 border-t border-gray-200">
           <p>
             <span class="font-bold">
               Dick Sporting Goods (Blue Sombrero, LLC)
