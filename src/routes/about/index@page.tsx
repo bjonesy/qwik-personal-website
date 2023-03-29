@@ -31,7 +31,7 @@ export default component$(() => {
       </div>
       <div>
         <h3 class="text-xl font-bold leading-7 sm:truncate sm:text-2xl sm:tracking-tight py-6">
-          Professionl Experience
+          Professional Experience
         </h3>
         <div class="pb-8">
           <p>
